@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.log
+*.json
+.venv/
+tmp_desktop_test/
+tmp_desktop_test2/
+.company/
